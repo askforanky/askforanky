@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @askforanky
+- 👋 Hi, I’m Ankit Patel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 📫 mail me @ patelankit3434@gmail.com
